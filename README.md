@@ -6,22 +6,13 @@
 [![codecov](https://codecov.io/gh/PolicyAnalysisInc/heRomod2/branch/main/graph/badge.svg?token=DJEVZWERGF)](https://codecov.io/gh/PolicyAnalysisInc/heRomod2)
 <!-- badges: end -->
 
-The goal of heRomod2 is to ...
+An R Package for developing health economic models.
 
 ## Installation
 
-You can install the released version of heRomod2 from [CRAN](https://CRAN.R-project.org) with:
+You can install the released version of heRomod2 from github with:
 
 ``` r
-install.packages("heRomod2")
-```
-
-## Example
-
-This is a basic example which shows you how to solve a common problem:
-
-``` r
-library(heRomod2)
-## basic example code
+devtools::install_github("PolicyAnalysisInc/heRomod2")
 ```
 
