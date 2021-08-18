@@ -2,7 +2,7 @@
 # heRomod2
 
 <!-- badges: start -->
-[![CircleCI build status](https://circleci.com/gh/PolicyAnalysisInc/heRomod2.svg?style=svg)](https://circleci.com/gh/PolicyAnalysisInc/heRomod2)
+[![CircleCI](https://circleci.com/gh/PolicyAnalysisInc/heRomod2/tree/main.svg?style=svg)](https://circleci.com/gh/PolicyAnalysisInc/heRomod2/tree/main)
 <!-- badges: end -->
 
 The goal of heRomod2 is to ...
