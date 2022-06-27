@@ -1,3 +1,4 @@
 ^\.circleci$
 ^\.circleci/config\.yml$
 ^codecov\.yml$
+^LICENSE\.md$

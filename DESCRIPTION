@@ -1,19 +1,23 @@
 Package: heRomod2
-Title: What the Package Does (One Line, Title Case)
+Title: Reproducible Health Economic Modeling
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Jordan",
+           family = "Amdahl",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+           email = "jrdnmdhl@gmail.com")
+Description: An R package for creating and running reproducible and
+  transparent health economic models. Models of various types are
+  creating using a consistent tabular structure which defines features
+  of the model such as the strategies being compared and the health
+  states between which patients transit.
+License: AGPL (>= 3)
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.0.2
+RoxygenNote: 7.2.0
+Imports:
+    lazyeval
 Suggests: 
     testthat,
     covr
