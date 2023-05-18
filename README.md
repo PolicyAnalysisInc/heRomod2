@@ -16,3 +16,7 @@ You can install the released version of heRomod2 from github with:
 devtools::install_github("PolicyAnalysisInc/heRomod2")
 ```
 
+
+## Contributing
+
+Pull request are welcome. Contributors must assign copyright of any contributed code to PAI.
