@@ -2,3 +2,4 @@
 .RData
 .Rproj.user
 env.RData
+scratch/*
